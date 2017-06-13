@@ -1,0 +1,8 @@
+{
+  "name": "myApp_movies_new",
+  "app_id": "",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
